@@ -1,0 +1,639 @@
+[info] [API] Request for entity/actions: {
+	"action": "entity/actions",
+	"params": {
+		"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/services/api.response.ts",
+		"position": 65
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular"
+		},
+		"userContext": {
+			"id": "LqE7vHwcLA",
+			"correlationId": "LNiCFYjbkh",
+			"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/services/api.response.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for entity/actions"
+}
+[info] [API] Request for entity/actions: {
+	"action": "entity/actions",
+	"params": {
+		"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/services/api.response.ts",
+		"position": 65
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular"
+		},
+		"userContext": {
+			"id": "LqE7vHwcLA",
+			"correlationId": "04FpWACJRl",
+			"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/services/api.response.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for entity/actions"
+}
+[error] [API]: Error Could not resolve workspace configuration. Please add workspace.workspaceConfig value in coding-standards.json: {
+	"loggerData": {
+		"action": "entity/actions",
+		"params": {
+			"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/services/api.response.ts",
+			"position": 65
+		},
+		"context": {
+			"workspace": {
+				"rootPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular"
+			},
+			"userContext": {
+				"id": "LqE7vHwcLA",
+				"correlationId": "04FpWACJRl",
+				"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/services/api.response.ts",
+				"logEnvId": "development"
+			}
+		}
+	},
+	"error": {},
+	"stack": "Error: Could not resolve workspace configuration. Please add workspace.workspaceConfig value in coding-standards.json\n    at getCodingStandards (C:\\Users\\agata\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:7249:15)\n    at async getWorkspaceQueryHandler (C:\\Users\\agata\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:7475:29)\n    at async outputResult (C:\\Users\\agata\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:16700:31)",
+	"level": "error",
+	"message": "[API]: Error Could not resolve workspace configuration. Please add workspace.workspaceConfig value in coding-standards.json"
+}
+[info] [API] Request for entity/actions: {
+	"action": "entity/actions",
+	"params": {
+		"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/services/api.response.ts",
+		"position": 65
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular"
+		},
+		"userContext": {
+			"id": "LqE7vHwcLA",
+			"correlationId": "MSrdnZUHL1",
+			"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/services/api.response.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for entity/actions"
+}
+[error] [API]: Error Could not resolve workspace configuration. Please add workspace.workspaceConfig value in coding-standards.json: {
+	"loggerData": {
+		"action": "entity/actions",
+		"params": {
+			"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/services/api.response.ts",
+			"position": 65
+		},
+		"context": {
+			"workspace": {
+				"rootPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular"
+			},
+			"userContext": {
+				"id": "LqE7vHwcLA",
+				"correlationId": "MSrdnZUHL1",
+				"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/services/api.response.ts",
+				"logEnvId": "development"
+			}
+		}
+	},
+	"error": {},
+	"stack": "Error: Could not resolve workspace configuration. Please add workspace.workspaceConfig value in coding-standards.json\n    at getCodingStandards (C:\\Users\\agata\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:7249:15)\n    at async getWorkspaceQueryHandler (C:\\Users\\agata\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:7475:29)\n    at async outputResult (C:\\Users\\agata\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:16700:31)",
+	"level": "error",
+	"message": "[API]: Error Could not resolve workspace configuration. Please add workspace.workspaceConfig value in coding-standards.json"
+}
+[info] [API] Request for entity/actions: {
+	"action": "entity/actions",
+	"params": {
+		"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/model/employee.model.ts",
+		"position": 98
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular"
+		},
+		"userContext": {
+			"id": "LqE7vHwcLA",
+			"correlationId": "XjJlbjPajw",
+			"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/model/employee.model.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for entity/actions"
+}
+[error] [API]: Error Could not resolve workspace configuration. Please add workspace.workspaceConfig value in coding-standards.json: {
+	"loggerData": {
+		"action": "entity/actions",
+		"params": {
+			"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/model/employee.model.ts",
+			"position": 98
+		},
+		"context": {
+			"workspace": {
+				"rootPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular"
+			},
+			"userContext": {
+				"id": "LqE7vHwcLA",
+				"correlationId": "XjJlbjPajw",
+				"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/model/employee.model.ts",
+				"logEnvId": "development"
+			}
+		}
+	},
+	"error": {},
+	"stack": "Error: Could not resolve workspace configuration. Please add workspace.workspaceConfig value in coding-standards.json\n    at getCodingStandards (C:\\Users\\agata\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:7249:15)\n    at async getWorkspaceQueryHandler (C:\\Users\\agata\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:7475:29)\n    at async outputResult (C:\\Users\\agata\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:16700:31)",
+	"level": "error",
+	"message": "[API]: Error Could not resolve workspace configuration. Please add workspace.workspaceConfig value in coding-standards.json"
+}
+[info] [API] Request for entity/actions: {
+	"action": "entity/actions",
+	"params": {
+		"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/model/employee.model.ts",
+		"position": 98
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular"
+		},
+		"userContext": {
+			"id": "LqE7vHwcLA",
+			"correlationId": "H3ZxRy8ddp",
+			"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/model/employee.model.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for entity/actions"
+}
+[error] [API]: Error Could not resolve workspace configuration. Please add workspace.workspaceConfig value in coding-standards.json: {
+	"loggerData": {
+		"action": "entity/actions",
+		"params": {
+			"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/model/employee.model.ts",
+			"position": 98
+		},
+		"context": {
+			"workspace": {
+				"rootPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular"
+			},
+			"userContext": {
+				"id": "LqE7vHwcLA",
+				"correlationId": "H3ZxRy8ddp",
+				"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/model/employee.model.ts",
+				"logEnvId": "development"
+			}
+		}
+	},
+	"error": {},
+	"stack": "Error: Could not resolve workspace configuration. Please add workspace.workspaceConfig value in coding-standards.json\n    at getCodingStandards (C:\\Users\\agata\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:7249:15)\n    at async getWorkspaceQueryHandler (C:\\Users\\agata\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:7475:29)\n    at async outputResult (C:\\Users\\agata\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:16700:31)",
+	"level": "error",
+	"message": "[API]: Error Could not resolve workspace configuration. Please add workspace.workspaceConfig value in coding-standards.json"
+}
+[info] [API] Request for entity/actions: {
+	"action": "entity/actions",
+	"params": {
+		"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/model/employee.model.ts",
+		"position": 98
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular"
+		},
+		"userContext": {
+			"id": "LqE7vHwcLA",
+			"correlationId": "ec_kIE0alx",
+			"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/model/employee.model.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for entity/actions"
+}
+[error] [API]: Error Could not resolve workspace configuration. Please add workspace.workspaceConfig value in coding-standards.json: {
+	"loggerData": {
+		"action": "entity/actions",
+		"params": {
+			"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/model/employee.model.ts",
+			"position": 98
+		},
+		"context": {
+			"workspace": {
+				"rootPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular"
+			},
+			"userContext": {
+				"id": "LqE7vHwcLA",
+				"correlationId": "ec_kIE0alx",
+				"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/model/employee.model.ts",
+				"logEnvId": "development"
+			}
+		}
+	},
+	"error": {},
+	"stack": "Error: Could not resolve workspace configuration. Please add workspace.workspaceConfig value in coding-standards.json\n    at getCodingStandards (C:\\Users\\agata\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:7249:15)\n    at async getWorkspaceQueryHandler (C:\\Users\\agata\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:7475:29)\n    at async outputResult (C:\\Users\\agata\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:16700:31)",
+	"level": "error",
+	"message": "[API]: Error Could not resolve workspace configuration. Please add workspace.workspaceConfig value in coding-standards.json"
+}
+[info] [API] Request for entity/actions: {
+	"action": "entity/actions",
+	"params": {
+		"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/model/employee.model.ts",
+		"position": 98
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular"
+		},
+		"userContext": {
+			"id": "LqE7vHwcLA",
+			"correlationId": "TYnnG4hB8_",
+			"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/model/employee.model.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for entity/actions"
+}
+[error] [API]: Error Could not resolve workspace configuration. Please add workspace.workspaceConfig value in coding-standards.json: {
+	"loggerData": {
+		"action": "entity/actions",
+		"params": {
+			"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/model/employee.model.ts",
+			"position": 98
+		},
+		"context": {
+			"workspace": {
+				"rootPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular"
+			},
+			"userContext": {
+				"id": "LqE7vHwcLA",
+				"correlationId": "TYnnG4hB8_",
+				"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/model/employee.model.ts",
+				"logEnvId": "development"
+			}
+		}
+	},
+	"error": {},
+	"stack": "Error: Could not resolve workspace configuration. Please add workspace.workspaceConfig value in coding-standards.json\n    at getCodingStandards (C:\\Users\\agata\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:7249:15)\n    at async getWorkspaceQueryHandler (C:\\Users\\agata\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:7475:29)\n    at async outputResult (C:\\Users\\agata\\AppData\\Roaming\\JetBrains\\WebStorm2022.2\\plugins\\LowgularJPlugin\\cli\\main.js:16700:31)",
+	"level": "error",
+	"message": "[API]: Error Could not resolve workspace configuration. Please add workspace.workspaceConfig value in coding-standards.json"
+}
+[info] [API] Request for entity/actions: {
+	"action": "entity/actions",
+	"params": {
+		"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/model/employee.model.ts",
+		"position": 98
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry"
+		},
+		"userContext": {
+			"id": "LqE7vHwcLA",
+			"correlationId": "hpMXBrRvbL",
+			"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/model/employee.model.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for entity/actions"
+}
+[info] [CLI] Calling Query entity/actions: {
+	"funcParams": {
+		"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/model/employee.model.ts",
+		"position": 98
+	},
+	"level": "info",
+	"message": "[CLI] Calling Query entity/actions"
+}
+[info] [CLI] Called Query entity/actions: {
+	"result": {
+		"context": {},
+		"children": [
+			{
+				"label": "Properties",
+				"children": [
+					{
+						"actionId": "PROPERTY_CREATE",
+						"label": "Create Property",
+						"callPath": []
+					}
+				]
+			}
+		]
+	},
+	"level": "info",
+	"message": "[CLI] Called Query entity/actions"
+}
+[info] [API] Response ok: entity/actions: {
+	"result": {
+		"context": {},
+		"children": [
+			{
+				"label": "Properties",
+				"children": [
+					{
+						"actionId": "PROPERTY_CREATE",
+						"label": "Create Property",
+						"callPath": []
+					}
+				]
+			}
+		]
+	},
+	"level": "info",
+	"message": "[API] Response ok: entity/actions"
+}
+[info] [API] Request for entity/actions: {
+	"action": "entity/actions",
+	"params": {
+		"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/ui/employee-list/employee-list.component.ts",
+		"position": 419
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry"
+		},
+		"userContext": {
+			"id": "LqE7vHwcLA",
+			"correlationId": "kaPuppxN4P",
+			"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/ui/employee-list/employee-list.component.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for entity/actions"
+}
+[info] [CLI] Calling Query entity/actions: {
+	"funcParams": {
+		"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/ui/employee-list/employee-list.component.ts",
+		"position": 419
+	},
+	"level": "info",
+	"message": "[CLI] Calling Query entity/actions"
+}
+[info] [API] Response ok: entity/actions: {
+	"result": {
+		"context": {
+			"parentClass": "EmployeeListComponent"
+		},
+		"children": [
+			{
+				"label": "Properties",
+				"children": [
+					{
+						"label": "data$",
+						"children": [
+							{
+								"actionId": "RXJS_CALL_EXPRESSIONS_MAP",
+								"label": "Map Property",
+								"callPath": [
+									"data$"
+								]
+							},
+							{
+								"actionId": "RXJS_CALL_EXPRESSIONS_TAP",
+								"label": "Property Side Effect",
+								"callPath": [
+									"data$"
+								]
+							}
+						]
+					},
+					{
+						"actionId": "ADD_FORM",
+						"label": "Create Form Property",
+						"callPath": []
+					},
+					{
+						"actionId": "RXJS_PROPERTY_CREATE",
+						"label": "Create Data Property",
+						"callPath": []
+					},
+					{
+						"actionId": "RXJS_PROPERTY_SUBJECT_CREATE",
+						"label": "Create Subject Property",
+						"callPath": []
+					}
+				]
+			},
+			{
+				"label": "Inject",
+				"actionId": "INJECT",
+				"callPath": []
+			},
+			{
+				"label": "Methods",
+				"children": [
+					{
+						"actionId": "METHOD_CREATE",
+						"label": "Create New Method",
+						"callPath": []
+					}
+				]
+			},
+			{
+				"label": "Add Component to Route",
+				"actionId": "ADD_TO_ROUTE",
+				"callPath": []
+			}
+		]
+	},
+	"level": "info",
+	"message": "[API] Response ok: entity/actions"
+}
+[info] [CLI] Called Query entity/actions: {
+	"result": {
+		"context": {
+			"parentClass": "EmployeeListComponent"
+		},
+		"children": [
+			{
+				"label": "Properties",
+				"children": [
+					{
+						"label": "data$",
+						"children": [
+							{
+								"actionId": "RXJS_CALL_EXPRESSIONS_MAP",
+								"label": "Map Property",
+								"callPath": [
+									"data$"
+								]
+							},
+							{
+								"actionId": "RXJS_CALL_EXPRESSIONS_TAP",
+								"label": "Property Side Effect",
+								"callPath": [
+									"data$"
+								]
+							}
+						]
+					},
+					{
+						"actionId": "ADD_FORM",
+						"label": "Create Form Property",
+						"callPath": []
+					},
+					{
+						"actionId": "RXJS_PROPERTY_CREATE",
+						"label": "Create Data Property",
+						"callPath": []
+					},
+					{
+						"actionId": "RXJS_PROPERTY_SUBJECT_CREATE",
+						"label": "Create Subject Property",
+						"callPath": []
+					}
+				]
+			},
+			{
+				"label": "Inject",
+				"actionId": "INJECT",
+				"callPath": []
+			},
+			{
+				"label": "Methods",
+				"children": [
+					{
+						"actionId": "METHOD_CREATE",
+						"label": "Create New Method",
+						"callPath": []
+					}
+				]
+			},
+			{
+				"label": "Add Component to Route",
+				"actionId": "ADD_TO_ROUTE",
+				"callPath": []
+			}
+		]
+	},
+	"level": "info",
+	"message": "[CLI] Called Query entity/actions"
+}
+[info] [API] Request for injectable/list: {
+	"action": "injectable/list",
+	"params": {
+		"entityFilePath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/ui/employee-list/employee-list.component.ts"
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry"
+		},
+		"userContext": {
+			"id": "LqE7vHwcLA",
+			"correlationId": "kaPuppxN4P",
+			"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/ui/employee-list/employee-list.component.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for injectable/list"
+}
+[info] [CLI] Calling Query injectable/list: {
+	"funcParams": {
+		"entityFilePath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/ui/employee-list/employee-list.component.ts"
+	},
+	"level": "info",
+	"message": "[CLI] Calling Query injectable/list"
+}
+[info] [CLI] Called Query injectable/list: {
+	"result": [
+		{
+			"id": "httpClient",
+			"dataType": "External",
+			"name": "HttpClient",
+			"relatedTypes": {}
+		},
+		{
+			"id": "activatedRoute",
+			"dataType": "External",
+			"name": "ActivatedRoute",
+			"relatedTypes": {}
+		}
+	],
+	"level": "info",
+	"message": "[CLI] Called Query injectable/list"
+}
+[info] [API] Response ok: injectable/list: {
+	"result": [
+		{
+			"id": "httpClient",
+			"dataType": "External",
+			"name": "HttpClient",
+			"relatedTypes": {}
+		},
+		{
+			"id": "activatedRoute",
+			"dataType": "External",
+			"name": "ActivatedRoute",
+			"relatedTypes": {}
+		}
+	],
+	"level": "info",
+	"message": "[API] Response ok: injectable/list"
+}
+[info] [API] Request for injectable/inject-external: {
+	"action": "injectable/inject-external",
+	"params": {
+		"entityFilePath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/ui/employee-list/employee-list.component.ts",
+		"externalId": "httpClient"
+	},
+	"context": {
+		"workspace": {
+			"rootPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry"
+		},
+		"userContext": {
+			"id": "LqE7vHwcLA",
+			"correlationId": "kaPuppxN4P",
+			"clickedPath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/ui/employee-list/employee-list.component.ts",
+			"logEnvId": "development"
+		}
+	},
+	"level": "info",
+	"message": "[API] Request for injectable/inject-external"
+}
+[info] [CLI] Calling Command injectable/inject-external: {
+	"funcParams": {
+		"entityFilePath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/ui/employee-list/employee-list.component.ts",
+		"externalId": "httpClient"
+	},
+	"level": "info",
+	"message": "[CLI] Calling Command injectable/inject-external"
+}
+[info] [CommandBus]: Dispatching command INJECT_EXTERNAL_DEPENDENCY: {
+	"commandName": "INJECT_EXTERNAL_DEPENDENCY",
+	"payload": {
+		"entityFilePath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/ui/employee-list/employee-list.component.ts",
+		"externalType": "HttpClient",
+		"genericFilePaths": []
+	},
+	"level": "info",
+	"message": "[CommandBus]: Dispatching command INJECT_EXTERNAL_DEPENDENCY"
+}
+[info] [CommandBus]: Handled  INJECT_EXTERNAL_DEPENDENCY: {
+	"commandName": "INJECT_EXTERNAL_DEPENDENCY",
+	"payload": {
+		"entityFilePath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/ui/employee-list/employee-list.component.ts",
+		"externalType": "HttpClient",
+		"genericFilePaths": []
+	},
+	"level": "info",
+	"message": "[CommandBus]: Handled  INJECT_EXTERNAL_DEPENDENCY"
+}
+[info] [CLI] Called Command injectable/inject-external: {
+	"message": "[CLI] Called Command injectable/inject-external",
+	"level": "info"
+}
+[info] [API] Response ok: injectable/inject-external: {
+	"result": {
+		"filePath": "C:/Users/agata/Documents/Programowanie/Angular/Lowgular/lowgular-course-entry/src/app/ui/employee-list/employee-list.component.ts"
+	},
+	"level": "info",
+	"message": "[API] Response ok: injectable/inject-external"
+}

@@ -1,0 +1,7 @@
+<div style="display: inline-block; margin: 10px" *ngFor="let person of data$ | async">
+  <img style="width: 200px" [src]="person.img" alt="Employee">
+  <br>
+  <div style="text-align: center">
+     {{person.name}}
+  </div>
+</div>

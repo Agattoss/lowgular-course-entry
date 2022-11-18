@@ -2,6 +2,8 @@
 <ul *ngIf="data$ | async as data; else empty">
   <li *ngFor="let person of data">
     ID:{{ person.personalNumber }} {{ person.name }}. <span class="email">Email: {{person.mail}}</span>
+   <button class="btn--red" type="button" (click)="onDelete(person.personalNumber)"> Delete</button>
+
   </li>
 </ul>
 

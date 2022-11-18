@@ -11,3 +11,18 @@ ul {
 li {
   padding: 5px;
 }
+.btn--red{
+  box-shadow:inset 0 1px 0 0 #f5978e;
+  background:linear-gradient(to bottom, #f24537 5%, #c62d1f 100%);
+  background:#f24537;
+  border-radius:6px;
+  border:1px solid #d02718;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-weight:bold;
+  padding:6px 24px;
+  text-decoration:none;
+  text-shadow:0 1px 0 #810e05;
+  margin: 5px;
+}

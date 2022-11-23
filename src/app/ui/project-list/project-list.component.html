@@ -1,4 +1,12 @@
-<h2>List of Projects</h2>
-<ul *ngFor=" let project of data$ |async">
-  <li>ID:{{project.id}}, name: {{project.name}}, owner: {{project.owner}}</li>
+<h2 class="m-5">List of Projects</h2>
+<div class="row">
+<ul *ngFor=" let project of data$ |async" class="col-sm-6">
+  <li class="card text-bg-light mb-3" >
+    <div class="card-body">
+      <h5 class="card-title">ID:{{project.id}}</h5>
+      <h6 class="card-text">Name: {{project.name}} </h6>
+      <p class="card-text">Owner: {{project.owner}} </p>
+    </div>
+  </li>
 </ul>
+</div>

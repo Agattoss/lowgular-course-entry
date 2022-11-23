@@ -1,10 +1,15 @@
-<h2>Employee list</h2>
-<ul *ngIf="data$ | async as data; else empty">
-  <li *ngFor="let person of data">
-    ID:{{ person.personalNumber }} {{ person.name }}. <span class="email">Email: {{person.mail}}</span>
-   <button class="btn--red" type="button" (click)="onDelete(person.personalNumber)"> Delete</button>
-
+<div >
+<h2 class="p-5">Employee list</h2>
+  <div class="container-md" style="max-width: 700px">
+<ul *ngIf="data$ | async as data; else empty" class="list-group">
+  <li *ngFor="let person of data; trackBy: trackByFn" class="list-group-item m-2 d-flex justify-content-between"  >
+    ID:{{ person.personalNumber }} {{ person.name }}. Email: {{person.mail}}
+    <button class="btn btn-outline-danger btn-sm" type="button" (click)="onDelete(person.personalNumber)" style="max-height: 31px"> Delete</button>
   </li>
 </ul>
+  </div>
 
 <ng-template #empty> There is no data </ng-template>
+</div>
+
+

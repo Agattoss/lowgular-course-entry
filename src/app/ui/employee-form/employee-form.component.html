@@ -1,7 +1,16 @@
+<div class="container-md" style="max-width: 700px">
+  <h3 class="p-2">Add Employee</h3>
 <form [formGroup]="employeeForm" (ngSubmit)="onFormSubmitted(employeeForm.value)">
-  <input type="text" formControlName="name" placeholder="Name">
-  <input type="number" formControlName="age" placeholder="Age">
-  <input type="number" formControlName="salary" placeholder="Salary">
-  <input type="submit" value="Submit" [disabled]="employeeForm.invalid" >
+  <div class="mb-3">
+    <label for="name" class="form-label"></label>
+  <input type="text" formControlName="name" placeholder="Name" id="name" class="form-control">
+    <label for="age" class="form-label"></label>
+  <input type="number" formControlName="age" placeholder="Age" id="age" class="form-control">
+    <label for="salary" class="form-label"></label>
+  <input type="number" formControlName="salary" placeholder="Salary" id="salary" class="form-control">
+
+  <input type="submit" class="btn btn-success" value="Submit" [disabled]="employeeForm.invalid" id="button" style="margin-top: 20px">
+  </div>
 </form>
 <p *ngIf="!employeeForm.invalid">Your new Employee {{employeeForm.value.name}}, age:{{employeeForm.value.age}} with salary {{employeeForm.value.salary}} $ will be added to the system.</p>
+</div>

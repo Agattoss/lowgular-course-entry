@@ -1,6 +1,46 @@
 <!--<app-user-form></app-user-form> -->
 
 <div class="container-md">
-<h1 class="m-5">My super App!</h1>
+<div class="nav__wrapper">
+  <ul class="nav justify-content-end">
+    <span style="margin: auto auto auto 0">
+      <i class="fa-solid fa-users-rectangle fa-2xl" style="color:green"></i>
+    </span>
+    <li class="nav-item">
+      <a class="nav-link active" aria-current="page" routerLink="/">Home</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" routerLink="/employee-list">List of Employees</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" routerLink="/create-employee">Add Employee</a>
+    </li>
+  </ul>
+</div>
+  <h1 class="m-5">Employees App</h1>
 <router-outlet></router-outlet>
+</div>
+<div class="footer__wrapper" style="
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 60px;
+    background-color: #f5f5f5;"
+  >
+  <footer class="text-center text-dark"
+          style="background-color: rgba(0, 0, 0, 0.2);">
+
+      <section>
+        <a style="margin-right: 60px"> <i class="fa-solid fa-users-rectangle fa-2xl" style="color:green"></i></a>
+        <a style="margin-right: 60px
+"> © 2022 Agata Flis</a>
+        <a class="btn btn-outline-dark btn-floating m-1" href="https://www.linkedin.com/in/agata-flis-abbb081a7/" role="button"
+        ><i class="fab fa-linkedin-in"></i
+        ></a>
+        <a class="btn btn-outline-dark btn-floating m-1" href="https://github.com/Agattoss" role="button"
+        ><i class="fab fa-github"></i
+        ></a>
+      </section>
+
+  </footer>
 </div>

@@ -1,5 +1,8 @@
-body {
-  background-color: whitesmoke
+html, body {
+  background-color: whitesmoke;
+  padding-top: 20px;
+  box-sizing: border-box;
+  height: 100%;
 }
 h1, h2, h3 {
   text-align: center;

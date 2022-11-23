@@ -2,22 +2,36 @@
   <h2 class="p-5">Employee list</h2>
   <div class="container-md" style="max-width: 700px">
     <ul *ngIf="data$ | async as data; else empty" class="list-group">
-      <a
+      <li
         *ngFor="let person of data; trackBy: trackByFn"
         class="list-group-item m-2 d-flex justify-content-between"
         [routerLink]="['/employee-details', person.personalNumber, person.name]"
       >
         ID:{{ person.personalNumber }} {{ person.name }}. Email:
         {{ person.mail }}
-        <button
-          class="btn btn-outline-danger btn-sm"
-          type="button"
-          (click)="onDelete(person.personalNumber)"
-          style="max-height: 31px"
-        >
-          Delete
-        </button>
-      </a>
+        <div>
+          <button
+            class="btn btn-outline-primary btn-sm"
+            type="button"
+            [routerLink]="[
+              '/employee-details',
+              person.personalNumber,
+              person.name
+            ]"
+            style="max-height: 31px; margin: 5px;"
+          >
+            Details
+          </button>
+          <button
+            class="btn btn-outline-danger btn-sm"
+            type="button"
+            (click)="onDelete(person.personalNumber)"
+            style="max-height: 31px; margin: 5px"
+          >
+            Delete
+          </button>
+        </div>
+      </li>
     </ul>
   </div>
 

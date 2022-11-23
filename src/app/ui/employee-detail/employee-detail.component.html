@@ -1,4 +1,7 @@
 <h3> Employee Details</h3>
-<p>Id: {{(params$ | async)?.id}}</p>
-<p>Name: {{(params$ | async)?.name}}</p>
+<div class="list-group">
+<p class="list-group-item">Id: {{(details$ | async)?.personalNumber}}</p>
+<p class="list-group-item">Name: {{(details$ | async)?.name}}</p>
+<p class="list-group-item">Email: {{(details$ | async)?.mail}}</p>
+</div>
 
